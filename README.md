@@ -1,3 +1,4 @@
-30 JavaScipt Porjects 
+# 30 JavaScipt Porjects 
 
-1. Heart Trial Animation
+## 1. Heart Trial Animation
+## 2. Auto-text Animation
